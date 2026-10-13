@@ -10,14 +10,14 @@ This project investigates the flow characteristics and heat transfer enhancement
 
 The effects of the following parameters were investigated:
 
-* **Relative roughness pitch (\(P/e\)):** 5–13, across three configurations.
-* **Relative roughness height (\(e/D\)):** 0.013–0.05, across three configurations.
-* **Reynolds number (\(Re\)):** 3,900–17,900.
+* **Relative roughness pitch(P/e):** 5–13, across three configurations.
+* **Relative roughness height (e/D):** 0.013–0.05, across three configurations.
+* **Reynolds number (Re):** 3,900–17,900.
 
 ## Key Findings
 
 * Introducing square ribs on the absorber plate enhanced heat transfer compared with a smooth surface.
-* The maximum heat transfer enhancement was approximately **97%**, observed at \(P/e = 10\), \(e/D = 0.05\), and \(Re = 17{,}900\).
+* The maximum heat transfer enhancement was approximately **97%**, observed at (P/e = 10), (e/D = 0.05), and (Re = 17900).
 * The maximum thermohydraulic performance parameter (TPP) was **1.97**, obtained under the same operating conditions.
 * Correlations for the friction factor and Nusselt number were developed based on the simulation results.
 
