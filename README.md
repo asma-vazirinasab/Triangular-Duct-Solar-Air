@@ -10,7 +10,7 @@ This project investigates the flow characteristics and heat transfer enhancement
 
 The effects of the following parameters were investigated:
 
-* **Relative roughness pitch(P/e):** 5–13, across three configurations.
+* **Relative roughness pitch (P/e):** 5–13, across three configurations.
 * **Relative roughness height (e/D):** 0.013–0.05, across three configurations.
 * **Reynolds number (Re):** 3,900–17,900.
 
